@@ -7,7 +7,7 @@ public class AtmJDBC {
 		
 		//Data Base connection
 		Class.forName("com.mysql.cj.jdbc.Driver");
-		Connection con=DriverManager.getConnection("jdbc:mysql://localhost:3306/ATM","root","132614");
+		Connection con=DriverManager.getConnection("jdbc:mysql://localhost:3306/ATM","root","123456");
 		
 		//Customer ID validation
 		System.out.println("$---------Welcome to InfinityMoney ATM----------$");
