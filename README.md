@@ -20,7 +20,7 @@ The application simulates basic ATM operations such as account management and tr
 # Setup Instructions
 
 1. Clone the repository:
-    > git clone [https://github.com/your-username/your-repo-name.git](https://github.com/Mrbhuvi5/ATM.git)
+    > git clone (https://github.com/Mrbhuvi5/ATM.git)
 
    
 3. Open the project in Eclipse.
